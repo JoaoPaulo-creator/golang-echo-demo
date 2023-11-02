@@ -1,0 +1,1 @@
+esqueleto de projeto criado para ser usado como exemplo em projetos futuros
